@@ -4,6 +4,6 @@ Created around 2010 using PHP and Adobe Dreamweaver as well as MySQL/PHPAdmin, t
 
 ## Website Design
 
-**Umichanime.edu** was a great way to showcase my skills as a website designer. It has been taken down since my brother and I left the university and continued under other domain, but we feel like we did a great job for the site, bringing more people together and had a lot more fun with the club that way.  We brought more people in for the infamous "Con Ja Nai" convention, AKA the convention that's not really a convention.
+**Umichanime.edu** was a great way to showcase my skills as a website designer. It has been taken down since my brother and I left the university and continued under other domain, but we feel like we did a great job for the site, bringing more people together and had a lot more fun with the club that way.  We brought more people in for the infamous "Con Ja Nai" convention, AKA the convention that's not really a convention.  A history of the site can found at http://web.archive.org/web/20120407074810/http://www.umichanime.com
 
 <img src="https://github.com/mrmark1998/animania/blob/master/images/umichanime.PNG">
